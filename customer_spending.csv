@@ -1,0 +1,13 @@
+customer_id,customer_name,city,total_orders,total_spend
+7,Reyansh Mehta,Mumbai,3,14000.0
+5,Aditya Kulkarni,Thane,3,10500.0
+1,Aarav Sharma,Mumbai,3,8600.0
+10,Myra Singh,Navi Mumbai,3,8600.0
+3,Vivaan Desai,Nashik,3,7100.0
+9,Arjun Pawar,Kolhapur,2,6300.0
+2,Isha Patel,Pune,3,5600.0
+6,Sara Khan,Virar,2,5500.0
+12,Aditi Rao,Solapur,2,4500.0
+8,Diya Shah,Pune,2,3600.0
+11,Kabir More,Aurangabad,2,2650.0
+4,Anaya Joshi,Nagpur,2,2200.0
